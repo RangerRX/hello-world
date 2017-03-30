@@ -1,2 +1,2 @@
 # hello-world
-She loves
+She loves plays game.
